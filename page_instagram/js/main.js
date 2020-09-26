@@ -1,1 +1,1 @@
-alert("Você gostaria de salvar sua senha?");
+alert("Bem vindo ao Instagram!");
